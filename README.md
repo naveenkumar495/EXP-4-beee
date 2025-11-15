@@ -54,6 +54,10 @@ WAVEFORM:
 ![4 3](https://github.com/user-attachments/assets/33cedb43-107e-4318-b44b-e7c5e1c4ae53)
 ![4 4](https://github.com/user-attachments/assets/1b85ee38-6914-4633-9caf-6c5be1a9fed3)
 ![4 5](https://github.com/user-attachments/assets/bbd38552-acf5-414c-baa9-0f9f1f19a9eb)
+<img width="1427" height="1001" alt="Screenshot 2025-10-15 160835" src="https://github.com/user-attachments/assets/c3aecb8d-f025-4971-8195-d3d41ff7c78b" />
+<img width="1369" height="873" alt="Screenshot 2025-10-15 160427" src="https://github.com/user-attachments/assets/d7b1d093-64b7-4c91-927f-39f2cf7e7605" />
+<img width="1430" height="948" alt="Screenshot 2025-10-18 084125" src="https://github.com/user-attachments/assets/71683567-e1ce-40db-af14-9aaefb8fe50f" />
+<img width="1916" height="1135" alt="Screenshot 2025-10-18 083717" src="https://github.com/user-attachments/assets/12207f42-0403-4f06-9ed5-f5f0f95cae41" />
 
 
 RESULT:

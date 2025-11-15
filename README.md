@@ -1,19 +1,22 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+## AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
-COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+## COMPONENTS  AND  EQUIPMENT  REQUIRED: 
+Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
+## 
 THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
-Half Wave Rectifier
+## Half Wave Rectifier
 
 
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
 
 
+##
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
 because of the voltage drop across the diode.
@@ -46,6 +49,11 @@ TABULAR COLUMN
 Rectifier with filter
 
 WAVEFORM:
+![4 1](https://github.com/user-attachments/assets/d46b94d3-2638-4980-8c23-6eb57c5c3755)
+![4 2](https://github.com/user-attachments/assets/12134e97-2ed8-4461-b0db-b0330d89999c)
+![4 3](https://github.com/user-attachments/assets/33cedb43-107e-4318-b44b-e7c5e1c4ae53)
+![4 4](https://github.com/user-attachments/assets/1b85ee38-6914-4633-9caf-6c5be1a9fed3)
+![4 5](https://github.com/user-attachments/assets/bbd38552-acf5-414c-baa9-0f9f1f19a9eb)
 
 
 RESULT:
